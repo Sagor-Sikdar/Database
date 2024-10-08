@@ -20,7 +20,7 @@ This repository contains a collection of database assignments completed as part 
    - **Description:** This assignment involves using Hadoop and Spark for large-scale data processing and analysis. The tasks focus on leveraging distributed computing to handle big data.
    - **Topics Covered:** MapReduce, data partitioning, Spark RDDs, and performance optimizations.
 
-5. **XQuery_HW5**
+5. **XQuery**
    - **Description:** This assignment is focused on using XQuery to interact with XML data. The tasks include writing complex queries to extract, manipulate, and transform XML datasets.
    - **Topics Covered:** XQuery, XML data manipulation, XPath, and data transformation.
 
